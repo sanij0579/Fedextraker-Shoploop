@@ -3,7 +3,7 @@
 **Fedextraker: Shoploop** is a fullstack e-commerce tracking application that allows users to view sample products and track their shipment status via the **FedEx Tracking API**. It combines a clean UI with real-time logistics tracking to simulate a modern online shopping experience.
 
 ---
-
+<img src="fedex.png" alt="Project Banner" width="500"/>
 ## 🛠️ Tech Stack
 
 - **Frontend**: React.js, Tailwind CSS, React Router
